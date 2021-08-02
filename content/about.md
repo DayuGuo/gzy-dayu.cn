@@ -10,7 +10,7 @@ weight: 50
 
 - **Dayu**，现就读于[中国疾病预防控制中心（国家热带病研究中心）](http://www.chinacdc.cn/)，流行病学与卫生统计专业。
 - **ORCID iD**: 0000-0001-6755-9827
-- 现运营[Infectious Diseases of Poverty（IDP）](https://idpjournal.biomedcentral.com/)杂志Twitter账号(https://twitter.com/Idpbmc2012)和 EpiHub微信公众号
+- 现运营[Infectious Diseases of Poverty（IDP）](https://idpjournal.biomedcentral.com/)杂志[Twitter账号](https://twitter.com/Idpbmc2012)和 EpiHub微信公众号
 - **Key words**： R; Photograph; Psychology; One Health; Epidemic; Steam; Nintendo Switch
 
 ## 网站简介
