@@ -4,9 +4,11 @@ author: Dayu
 date: '2021-08-02'
 slug: []
 categories:
-  - R
+  - 学习笔记
 tags:
   - R
+  - 中文
+  - 世界银行API
 lastmod: '2021-08-02T15:01:24+08:00'
 keywords: []
 description: ''

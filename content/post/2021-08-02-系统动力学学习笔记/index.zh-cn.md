@@ -4,7 +4,7 @@ author: Dayu
 date: '2021-08-02'
 slug: []
 categories:
-  - 系统动力学
+  - 学习笔记
 tags:
   - 系统动力学
 lastmod: '2021-08-02T15:25:32+08:00'

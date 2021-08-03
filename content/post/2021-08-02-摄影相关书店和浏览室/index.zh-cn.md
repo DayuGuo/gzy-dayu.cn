@@ -4,7 +4,7 @@ author: Dayu
 date: '2021-08-02'
 slug: []
 categories:
-  - Photograph
+  - 摄影相关
 tags:
   - Photograph
 lastmod: '2021-08-02T15:03:36+08:00'

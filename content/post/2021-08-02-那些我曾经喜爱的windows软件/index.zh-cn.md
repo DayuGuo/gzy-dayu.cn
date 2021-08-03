@@ -4,7 +4,7 @@ author: Dayu
 date: '2021-08-02'
 slug: []
 categories:
-  - Windows
+  - 应用推荐
 tags:
   - app
   - Windows
