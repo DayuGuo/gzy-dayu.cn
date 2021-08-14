@@ -1,7 +1,7 @@
 baseURL: http://localhost:1313/
 languageCode: en
 defaultContentLanguage: zh-cn
-title: Dayu的个人博客
+title: Zhaoyu的个人博客
 preserveTaxonomyNames: yes
 enableRobotsTXT: yes
 enableEmoji: yes
