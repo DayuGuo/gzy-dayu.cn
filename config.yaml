@@ -40,6 +40,10 @@ menu:
       name: 分类
       url: /categories/
       weight: 40
+    - identifier: Book
+      name: Bookdown
+      url: https://epihub.gitbook.io/r/
+      weight: 40
 params:
   archivePaginate: 50
   autoCollapseToc: no
