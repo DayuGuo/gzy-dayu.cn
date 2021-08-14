@@ -9,7 +9,7 @@ weight: 50
 ## 个人简介
 <img src="/./about_files/3B3DB382-86D9-48E8-8B00-466C91B3EBEE_1_105_c.jpeg" alt="" width="200px" height="200px"/>
 
-- **Dayu**，流行病学与卫生统计专业。
+- **Zhaoyu**，流行病学与卫生统计专业。
 - 现运营[Infectious Diseases of Poverty（IDP）](https://idpjournal.biomedcentral.com/)杂志[Twitter账号](https://twitter.com/Idpbmc2012)和 EpiHub微信公众号
 - Follow my [instagram](https://www.instagram.com/dayugogo/)!
 
