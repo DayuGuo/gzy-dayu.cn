@@ -66,4 +66,4 @@ sequenceDiagrams:
 
 14. 深圳：雅昌艺术中心
 
-源于HAKUCHI群友的一份单清单。
+源于HAKUCHI群友的一份清单。
