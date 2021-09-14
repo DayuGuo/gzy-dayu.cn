@@ -25,23 +25,23 @@ sitemap:
 menu:
   main:
     - identifier: home
-      name: 首页
+      name: Home
       url: /
       weight: 10
     - identifier: archives
-      name: 归档
+      name: Archives
       url: /post/
       weight: 20
     - identifier: tags
-      name: 标签
+      name: Tags
       url: /tags/
       weight: 30
     - identifier: categories
-      name: 分类
+      name: Categories
       url: /categories/
       weight: 40
-    - identifier: Book
-      name: Bookdown
+    - identifier: BookDown
+      name: Epi-Hub
       url: https://epihub.gitbook.io/r/
       weight: 40
 params:
