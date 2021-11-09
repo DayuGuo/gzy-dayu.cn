@@ -1,4 +1,5 @@
 /Users/zhaoyuguo/Documents/GitHub/gzy-dayu.cn/.gitattributes="B5EF8F6F"
+/Users/zhaoyuguo/Documents/GitHub/gzy-dayu.cn/.gitignore="99D4F4B4"
 /Users/zhaoyuguo/Documents/GitHub/gzy-dayu.cn/README.md="E2B7781F"
 /Users/zhaoyuguo/Documents/GitHub/gzy-dayu.cn/config.yaml="2AE644F5"
 /Users/zhaoyuguo/Documents/GitHub/gzy-dayu.cn/content/about.md="2634C93A"
@@ -9,4 +10,7 @@
 /Users/zhaoyuguo/Documents/GitHub/gzy-dayu.cn/content/post/2021-08-02-那些我曾经喜爱的windows软件/index.zh-cn.md="3FD760FA"
 /Users/zhaoyuguo/Documents/GitHub/gzy-dayu.cn/content/post/2021-08-02-那些我离不开的macos软件/index.zh-cn.md="63ED2C21"
 /Users/zhaoyuguo/Documents/GitHub/gzy-dayu.cn/content/post/2021-09-12-那些陪我度过孤独岁月的播客/index.zh-cn.Rmd="390F06A8"
+/Users/zhaoyuguo/Documents/GitHub/gzy-dayu.cn/content/post/2021-11-09-从知识图谱和系统动力学/index.zh-cn.md="E192A4AA"
+/Users/zhaoyuguo/Documents/GitHub/gzy-dayu.cn/content/post/2021-11-09-部分数据库的引用/index.zh-cn.md="09A758C6"
 /Users/zhaoyuguo/Documents/GitHub/gzy-dayu.cn/index.Rmd="678D6F6C"
+/Users/zhaoyuguo/Documents/GitHub/gzy-dayu.cn/netlify.toml="14FB68BE"

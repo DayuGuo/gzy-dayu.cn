@@ -1,6 +1,6 @@
 ---
 title: 那些我曾经喜爱的Windows软件
-author: Dayu
+author: Zhaoyu
 date: '2021-08-02'
 slug: []
 categories:

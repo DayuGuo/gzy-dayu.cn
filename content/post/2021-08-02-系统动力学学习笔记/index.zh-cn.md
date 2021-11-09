@@ -1,6 +1,6 @@
 ---
 title: 系统动力学学习笔记
-author: Dayu
+author: Zhaoyu
 date: '2021-08-02'
 slug: []
 categories:

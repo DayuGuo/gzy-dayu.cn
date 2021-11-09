@@ -1,6 +1,6 @@
 ---
 title: 那些我离不开的MacOS软件
-author: Dayu
+author: Zhaoyu
 date: '2021-08-02'
 slug: []
 categories:

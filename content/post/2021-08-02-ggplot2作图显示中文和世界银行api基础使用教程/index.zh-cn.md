@@ -1,6 +1,6 @@
 ---
 title: ggplot2作图显示中文和世界银行API基础使用教程
-author: Dayu
+author: Zhaoyu
 date: '2021-08-02'
 slug: []
 categories:

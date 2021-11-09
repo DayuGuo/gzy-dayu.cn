@@ -1,6 +1,6 @@
 ---
 title: 摄影相关书店和浏览室
-author: Dayu
+author: Zhaoyu
 date: '2021-08-02'
 slug: []
 categories:
