@@ -1,5 +1,5 @@
 ---
-title: 摄影相关书店和浏览室
+title: 那些我逛过或想去逛的摄影书店
 author: Zhaoyu
 date: '2021-08-02'
 slug: []
