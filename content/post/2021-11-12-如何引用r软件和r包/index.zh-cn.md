@@ -29,7 +29,6 @@ sequenceDiagrams:
   options: ''
 ---
 
-> This article was first published on **[rOpenSci - open tools for open science](https://ropensci.org/blog/2021/11/16/how-to-cite-r-and-r-packages/)**, Zhaoyu has translated this English article and quotes it here.
 
 ## 为什么要引用？
 
@@ -281,4 +280,5 @@ c("weathercan", "magick", "tidyhydat") %>%
 ## 高阶技能
 
 如果你期望你的项目不仅是可重复的，还是可复现的，那么可以使用R包`renv`或者版本控制器`Docker containers `。
-<!--more-->
+
+> This article was first published on **[rOpenSci - open tools for open science](https://ropensci.org/blog/2021/11/16/how-to-cite-r-and-r-packages/)**, Zhaoyu has translated this English article and quotes it here.
