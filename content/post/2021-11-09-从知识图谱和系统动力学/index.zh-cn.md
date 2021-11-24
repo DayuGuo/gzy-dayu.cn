@@ -61,7 +61,7 @@ sequenceDiagrams:
 
 主要步骤（wiki）:
 
-- Define the problem boundary（尤为重要-对全健康指数，就是方老师在会上提到的需要定义全健康概念边界，并确定受众）
+- Define the problem boundary（尤为重要）
 - Identify the most important stocks and flows that change these stock levels
 - Identify sources of information that impact the flows
 - Identify the main feedback loops
@@ -90,11 +90,10 @@ sequenceDiagrams:
 
 ## 以系统性思维绘制知识图谱
 
-疾病系统动力学模型可以如上图所示那样进行，定义了边界和节点之后，关系（也就是数据）可以用Meta分析的方式收集。但如果是讨论 One Health 这样的复杂整体，用这种思路很难实现，就如1107线上会上各位老师讨论的，即使抛开很多其他因素，时间序列的数据就无法获取。
+疾病系统动力学模型可以如上图所示那样进行，定义了边界和节点之后，关系（也就是数据）可以用Meta分析的方式收集。但如果是讨论 One Health 这样的复杂整体，实际上是很难实现的，即使抛开很多其他因素，时间序列的数据就无法获取。
 
 ![](/post/2021-11-09-从知识图谱和系统动力学/index.zh-cn_files/image-20211107225115097.png)
 
-以系统性思维绘制知识图谱并构建指标是可以实现的。上图中，夏老师提供的左图是以系统性思维绘制的知识图谱，图中已经可以看到存量和流量概念的雏形。
+以系统性思维绘制知识图谱并构建指标是可以实现的。上图中，左图是以系统性思维绘制的知识图谱，图中已经可以看到存量和流量概念的雏形。
 
-> 系统性思维建立知识图谱依旧无法用数学方程描述或是评估全健康系统（叶老师提到的），但也有了可解释的底层逻辑。
 
