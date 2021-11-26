@@ -61,6 +61,8 @@ sequenceDiagrams:
 - Translation Gap，成果转化问题已经变得越来越严重。
 - 理想情况下，需要与更多临床上的前瞻性研究相结合。
 
+现在国内对成果转化的重视程度也越来越高了，最新的职称评定指南中标注了专利的重要性。
+
 ## Reference：
 
 1. 本文大部分内容来自 Daniel Pinto dos Santos老师的Blog：`https://ai.myesr.org/publications/why-radiomics-research-does-not-translate-to-clinical-practice-evaluation-of-literature-using-rqs-and-tripod/`
