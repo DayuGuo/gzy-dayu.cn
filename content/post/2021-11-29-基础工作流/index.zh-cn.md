@@ -28,8 +28,7 @@ sequenceDiagrams:
   enable: no
   options: ''
 ---
-2021.11.29 我现在常用的工作流
+我现在常用的工作流：
 
-一图流!
 ![](/post/2021-11-29-基础工作流/index.zh-cn_files/WechatIMG163111111.jpg)
 
