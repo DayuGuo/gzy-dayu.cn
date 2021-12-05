@@ -28,8 +28,7 @@ sequenceDiagrams:
   enable: no
   options: ''
 ---
-## DICOM格式
-Digital Imaging and Communications in Medicine（DICOM）是医疗成像信息和相关数据的通信和管理标准，包含了图像的格式和网络传输协议。由美国ACR、NEMA、AAPM和RSNA四大学会一同创建。1993年更新了3.0版，也是当下被应用最广的格式，它涵盖几乎所有临床医学影像，包括X射线，CT，核磁共振，超声等。
+> Digital Imaging and Communications in Medicine（DICOM）是医疗成像信息和相关数据的通信和管理标准，包含了图像的格式和网络传输协议。由美国ACR、NEMA、AAPM和RSNA四大学会一同创建。1993年更新了3.0版，也是当下被应用最广的格式，它涵盖几乎所有临床医学影像，包括X射线，CT，核磁共振，超声等。
  1. DICOM文件由Header头文件以及Image影像两部分构成。
  2. 主要包括四类信息：Patients病人信息，Study检查信息，Series序列信息以及Image图像信息。  
   - 病人信息主要包括患者姓名、性别、ID等。  	
