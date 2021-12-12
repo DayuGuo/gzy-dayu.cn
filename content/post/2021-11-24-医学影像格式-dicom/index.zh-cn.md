@@ -28,6 +28,10 @@ sequenceDiagrams:
   enable: no
   options: ''
 ---
+放射学图像有6种主要格式--DICOM（医学数字成像和通信），NIFTI（神经影像信息技术），PAR / REC（飞利浦MRI扫描仪格式），ANALYZE（梅奥医学影像），NRRD（近原始光栅数据） ）和MNIC。
+
+其中DICOM是最常见的格式。
+
 > Digital Imaging and Communications in Medicine（DICOM）是医疗成像信息和相关数据的通信和管理标准，包含了图像的格式和网络传输协议。由美国ACR、NEMA、AAPM和RSNA四大学会一同创建。1993年更新了3.0版，也是当下被应用最广的格式，它涵盖几乎所有临床医学影像，包括X射线，CT，核磁共振，超声等。
  1. DICOM文件由Header头文件以及Image影像两部分构成。
  2. 主要包括四类信息：Patients病人信息，Study检查信息，Series序列信息以及Image图像信息。  
