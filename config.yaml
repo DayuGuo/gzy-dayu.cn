@@ -1,7 +1,7 @@
 baseURL: http://localhost:1313/
 languageCode: en
 defaultContentLanguage: zh-cn
-title: Zhaoyu的个人博客
+title: Another_Dayu的个人博客
 preserveTaxonomyNames: yes
 enableRobotsTXT: yes
 enableEmoji: yes
@@ -17,7 +17,7 @@ disqusShortname: ''
 googleAnalytics: ''
 copyright: ''
 author:
-  name: Zhaoyu
+  name: Another_Dayu
 sitemap:
   changefreq: weekly
   filename: sitemap.xml
@@ -141,7 +141,7 @@ params:
     a-email: dayuguo@outlook.com
     c-twitter: https://twitter.com/ClashMadWorld
     g-github: https://github.com/DayuGuo
-    m-instagram: https://www.instagram.com/dayugogo/
+    m-instagram: https://www.instagram.com/another_dayu/
   toc: yes
   uglyURLs: no
   utterances:
