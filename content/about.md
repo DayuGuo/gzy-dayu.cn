@@ -9,9 +9,11 @@ weight: 50
 ## 个人简介
 <img src="/./about_files/3B3DB382-86D9-48E8-8B00-466C91B3EBEE_1_105_c.jpeg" alt="" width="200px" height="200px"/>
 
-- **Zhaoyu**，流行病学与卫生统计专业，研究生。
+- **Zhaoyu**，CCDC-NIPD，流行病学与卫生统计专业，研究生。
+  - #流行病与卫生统计 #影像组 #免疫 #血吸虫
+  - #摄影
 - 现运营[Infectious Diseases of Poverty（IDP）](https://idpjournal.biomedcentral.com/)杂志[Twitter账号](https://twitter.com/Idpbmc2012)和 EpiHub微信公众号
-- Follow my [instagram](https://www.instagram.com/dayugogo/)!
+- Pls Follow my [instagram](https://www.instagram.com/another_dayu/)!
 
 ![](/./about_files/1628037323179.jpg)
 
@@ -25,5 +27,10 @@ weight: 50
 
 
 ## 友情链接
-- [Jamesjin63的个人博客](https://jamesjin63.github.io/)
+1. [Jamesjin63的个人博客](https://jamesjin63.github.io/)
+  - #流行病与卫生统计
+  - #空间流行病学
+2. [大黄的个人博客](https://blog.jjjjjj.one/)
+  - #神经生物学
+  - #个人服务器折腾指南
 
