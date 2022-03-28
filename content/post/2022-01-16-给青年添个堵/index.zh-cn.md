@@ -4,9 +4,9 @@ author: Zhaoyu
 date: '2022-01-16'
 slug: []
 categories:
-  - 日志
+  - 摘录
 tags:
-  - 日志
+  - 摘录
 lastmod: '2022-01-16T22:29:21+08:00'
 keywords: []
 description: ''
