@@ -2,15 +2,12 @@
 title: 血吸虫病领导小组
 author: Another_Dayu
 date: '2022-03-28'
-slug: []
 categories:
   - 学习笔记
 tags:
   - 日志
 lastmod: '2022-03-28T20:43:20+08:00'
 draft: yes
-keywords: []
-description: ''
 comment: no
 toc: no
 autoCollapseToc: no

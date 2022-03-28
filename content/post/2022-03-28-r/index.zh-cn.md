@@ -1,15 +1,12 @@
 ---
 title: 用R语言绘制属于你的《红黄蓝灰格子》
-author: R package build
+author: Another_Dayu
 date: '2022-03-28'
-slug: []
 categories:
   - 摘录
 tags:
   - R
 lastmod: '2022-03-28T21:12:04+08:00'
-keywords: []
-description: ''
 comment: no
 toc: no
 autoCollapseToc: no
