@@ -9,13 +9,15 @@ tags:
   - R
   - 艺术
 ---
+
 # 什么是Wordle
 
 从分类上看，Wordle 和填字游戏都属于字谜游戏的一种。在英语国家，字谜游戏有悠久的历史和广泛的受众，变化也很多样，填字游戏则是其中最具代表性的。  
-<img src="images/screenshot-final.png" alt="" width="50%" height="50%"/>
+
+<img src="images/screenshot-final.png" alt="" width="50%" height="50%"/>  
 而Wordle在难度和形态上都大大简化：这个游戏每天更新一期，玩家唯一目标，就是在六次尝试机会之内，猜出一个五个字母的单词。
 
-为此，游戏界面是一个 5×6 的方块阵列。玩家通过下方键盘输入猜测结果后，游戏会给字母方块标上颜色，提示猜测的准确性：
+为此，游戏界面是一个5×6的方块阵列。玩家通过下方键盘输入猜测结果后，游戏会给字母方块标上颜色，提示猜测的准确性：
 
 绿色 :green_square:：说明答案里有这个字母、所在位置也正确；  
 黄色 :yellow_square:：说明答案里有这个字母、但不在这个位置；  
@@ -33,4 +35,5 @@ Wordle 虽然规则简单，但其实自带了很多促进传播的属性。首�
 我的成果：<https://dayuguo.shinyapps.io/mywordle/>
 
 > Reference:
+>
 > 1.  <https://www.r-bloggers.com/2022/03/shiny-wordle-word-journey/>

@@ -14,4 +14,10 @@ weight: 1
 1. I am Sam
 2. 宋飞正传
 
+# 软件
+1.  [自制Shiny仿wordle在线游戏](https://dayuguo.shinyapps.io/mywordle/)
+- [wordle官方网站](https://www.nytimes.com/games/wordle/index.html)
+- [汉兜](https://handle.antfu.me/)
+2. [Codeflow打字小游戏](https://codeflow.biaoyansu.com/)
+
 {{< button relref="/" >}}Get Home{{< /button >}}
