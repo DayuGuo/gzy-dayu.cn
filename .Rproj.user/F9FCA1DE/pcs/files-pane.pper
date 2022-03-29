@@ -1,9 +1,13 @@
 {
     "sortOrder": [
         {
+            "columnIndex": 1,
+            "ascending": true
+        },
+        {
             "columnIndex": 2,
             "ascending": false
         }
     ],
-    "path": "~/Github-database/gzy-dayu.cn"
+    "path": "~/Github-database/gzy-dayu.cn/content"
 }

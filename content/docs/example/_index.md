@@ -13,6 +13,8 @@ title: "主页"
 
 
 ## 个人简介
+<img src=https://typora-dayu.oss-cn-shanghai.aliyuncs.com/202203300036734.jpeg width=20% />    
+
 - **Zhaoyu**，CCDC-NIPD，流行病学与卫生统计专业，研究生。
   - #日常
   - #阅读
