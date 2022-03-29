@@ -2,7 +2,6 @@
 weight: 1
 bookFlatSection: true
 title: "主页"
-comments = false
 ---
 
 # 主页
