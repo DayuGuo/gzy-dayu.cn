@@ -1,71 +1,22 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "Example Site"
+title: "主页"
 ---
 
-# Introduction
+# 主页
 
-## Ferre hinnitibus erat accipitrem dixi Troiae tollens
 
-Lorem markdownum, a quoque nutu est *quodcumque mandasset* veluti. Passim
-inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet
-non, mortali undas. Omnis pharetramque gramen portentificisque membris servatum
-novabis fallit de nubibus atque silvas mihi. **Dixit repetitaque Quid**; verrit
-longa; sententia [mandat](http://pastor-ad.io/questussilvas) quascumque nescio
-solebat [litore](http://lacrimas-ab.net/); noctes. *Hostem haerentem* circuit
-[plenaque tamen](http://www.sine.io/in).
+## 引
 
-- Pedum ne indigenae finire invergens carpebat
-- Velit posses summoque
-- De fumos illa foret
+>教育意味着获得不同的视角，理解不同的人、经历和历史。接受教育，但不要让你的教育僵化成傲慢。教育应该是思想的拓展，同理心的深化，视野的开阔。它不应该使你的偏见变得更顽固。如果人们受过教育，他们应该变得不那么确定，而不是更确定。他们应该多听，少说，对差异满怀激情，热爱那些不同于他们的想法。
 
-## Est simul fameque tauri qua ad
 
-Locum nullus nisi vomentes. Ab Persea sermone vela, miratur aratro; eandem
-Argolicas gener.
-
-## Me sol
-
-Nec dis certa fuit socer, Nonacria **dies** manet tacitaque sibi? Sucis est
-iactata Castrumque iudex, et iactato quoque terraeque es tandem et maternos
-vittis. Lumina litus bene poenamque animos callem ne tuas in leones illam dea
-cadunt genus, et pleno nunc in quod. Anumque crescentesque sanguinis
-[progenies](http://www.late.net/alimentavirides) nuribus rustica tinguet. Pater
-omnes liquido creditis noctem.
-
-    if (mirrored(icmp_dvd_pim, 3, smbMirroredHard) != lion(clickImportQueue,
-            viralItunesBalancing, bankruptcy_file_pptp)) {
-        file += ip_cybercrime_suffix;
-    }
-    if (runtimeSmartRom == netMarketingWord) {
-        virusBalancingWin *= scriptPromptBespoke + raster(post_drive,
-                windowsSli);
-        cd = address_hertz_trojan;
-        soap_ccd.pcbServerGigahertz(asp_hardware_isa, offlinePeopleware, nui);
-    } else {
-        megabyte.api = modem_flowchart - web + syntaxHalftoneAddress;
-    }
-    if (3 < mebibyteNetworkAnimated) {
-        pharming_regular_error *= jsp_ribbon + algorithm * recycleMediaKindle(
-                dvrSyntax, cdma);
-        adf_sla *= hoverCropDrive;
-        templateNtfs = -1 - vertical;
-    } else {
-        expressionCompressionVariable.bootMulti = white_eup_javascript(
-                table_suffix);
-        guidPpiPram.tracerouteLinux += rtfTerabyteQuicktime(1,
-                managementRosetta(webcamActivex), 740874);
-    }
-    var virusTweetSsl = nullGigo;
-
-## Trepident sitimque
-
-Sentiet et ferali errorem fessam, coercet superbus, Ascaniumque in pennis
-mediis; dolor? Vidit imi **Aeacon** perfida propositos adde, tua Somni Fluctibus
-errante lustrat non.
-
-Tamen inde, vos videt e flammis Scythica parantem rupisque pectora umbras. Haec
-ficta canistris repercusso simul ego aris Dixit! Esse Fama trepidare hunc
-crescendo vigor ululasse vertice *exspatiantur* celer tepidique petita aversata
-oculis iussa est me ferro.
+## 个人简介
+- **Zhaoyu**，CCDC-NIPD，流行病学与卫生统计专业，研究生。
+  - #日常
+  - #阅读
+  - #科研
+  - #摄影
+- 现运营[Infectious Diseases of Poverty（IDP）](https://idpjournal.biomedcentral.com/)杂志[Twitter账号](https://twitter.com/Idpbmc2012)和 EpiHub微信公众号
+- Pls Follow my [instagram](https://www.instagram.com/another_dayu/)!
