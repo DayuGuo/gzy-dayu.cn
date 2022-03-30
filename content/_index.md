@@ -20,3 +20,12 @@ type: docs
   - #摄影
 - 现运营[Infectious Diseases of Poverty（IDP）](https://idpjournal.biomedcentral.com/)杂志[Twitter账号](https://twitter.com/Idpbmc2012)和 EpiHub微信公众号
 - Pls Follow my [instagram](https://www.instagram.com/another_dayu/)!  
+
+
+<script src="https://utteranc.es/client.js"
+        repo="DayuGuo/blogtalks-utterances"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
