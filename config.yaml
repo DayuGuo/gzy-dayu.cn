@@ -1,0 +1,31 @@
+baseurl: "https://gzy-dayu.cn/"
+languageCode: "en-us"
+title: "Another_Dayu"
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+hasCJKLanguage: true
+enableEmoji: true
+footnotereturnlinkcontents: "↩"
+rssLimit: 100
+##utterances
+comments:
+  provider: 'utterances'
+  commentable:
+    post: true
+    book: true
+    project: true
+    publication: true
+    event: true
+  disqus:
+    shortname: 'Dayu'
+    show_count: true
+  commento:
+    url: ''
+  utterances:
+    repo: 'DayuGuo/blogtalks-utterances'
+    issue_term: 'title'
+    label: 'web page comment'
+    theme: 'github-light'
+
+permalinks:
+  cn: "/:sections/:year/:month/:slug/"
+  en: "/:sections/:year/:month/:slug/"
