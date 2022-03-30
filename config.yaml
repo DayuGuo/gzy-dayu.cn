@@ -7,25 +7,14 @@ enableEmoji: true
 footnotereturnlinkcontents: "↩"
 rssLimit: 100
 ##utterances
-comments:
-  provider: 'utterances'
-  commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
-  disqus:
-    shortname: 'Dayu'
-    show_count: true
-  commento:
-    url: ''
-  utterances:
-    repo: 'DayuGuo/blogtalks-utterances'
-    issue_term: 'title'
-    label: 'web page comment'
-    theme: 'github-light'
-
+---
+params:
+  utteranc:
+    enable: true
+    repo: DayuGuo/blogtalks-utterances
+    issueTerm: pathname
+    theme: github-light
+---
 permalinks:
   cn: "/:sections/:year/:month/:slug/"
   en: "/:sections/:year/:month/:slug/"

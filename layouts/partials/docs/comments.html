@@ -1,10 +1,10 @@
-{{ if site.Params.comments.utterances.repo }}
-<script src="https://utteranc.es/client.js"
-        repo="DayuGuo/blogtalks-utterances"
-        issue-term="title"
-        theme="github-light"
-        crossorigin="anonymous"
+{{- if .Site.Params.utter.repo -}}
+    <div id="utter-container"></div>
+    <script src="https://utteranc.es/client.js"
+        repo= '{{ .Site.Params.utter.repo }}'
+        issue-term= "{{ .Site.Params.utter.issueTerm }}"
+        theme= '{{ .Site.Params.utter.theme }}'
+        crossorigin= "anonymous"
         async>
-</script>
-{{ end }}
-
+    </script> 
+  {{- end }}
