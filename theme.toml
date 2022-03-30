@@ -14,3 +14,9 @@ min_version = "0.68"
 [author]
   name = "Alex Shpak"
   homepage = "https://github.com/alex-shpak/"
+
+[params.utteranc]
+  enable = true
+  repo = "DayuGuo/blogtalks-utterances" ##换成自己得
+  issueTerm = "pathname"
+  theme = "github-light"

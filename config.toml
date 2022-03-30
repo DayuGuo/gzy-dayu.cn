@@ -1,6 +1,0 @@
-## 配置 utteranc评论,教程参考 https://utteranc.es/
-[params.utteranc]
-  enable = true
-  repo = "DayuGuo/blogtalks-utterances" ##换成自己得
-  issueTerm = "pathname"
-  theme = "github-light"
