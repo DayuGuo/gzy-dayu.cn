@@ -24,5 +24,12 @@ tags:
 2. 文字：读书是典型的主动吸收，你的大脑也处于紧张的工作状态，文字相对视频是抽象的，你需要不断的结合上下文，不断的根据文字内容构建画面，或思考书内的核心问题，这种是系统2实实在在的工作，系统1可能在读小说时被调动让你情绪波动，但是任何书籍都会调动你的系统2，让你进入深度思考。
 
 # 总结
-为了获得激发创意而非知识而读书，读自己能力边界的书。
+为了获得激发创意而非知识而读书，读自己能力边界的书。  
 
+<script src="https://utteranc.es/client.js"
+        repo="DayuGuo/blogtalks-utterances"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
