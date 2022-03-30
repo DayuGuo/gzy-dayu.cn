@@ -1,0 +1,20 @@
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = false
+baseurl = "https://gzy-dayu.cn/"
+canonifyurls = true
+title = "Another_Dayu"
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  description = "Another_Dayu"
+  author = "Dayu"
+  
+[params.utteranc]
+  enable = true
+  repo = "DayuGuo/blogtalks-utterances" ##换成自己得
+  issueTerm = "pathname"
+  theme = "github-light"
