@@ -66,7 +66,13 @@ https://zhaoolee.gitbooks.io/chrome/content/016300a-jie-chu-b-zhan-qu-yu-xian-zh
 - AutoPagerize
 - IDM
 - Speedtest
-- Stylish
+- Stylish  
 
 
-![](images/WechatIMG352.jpeg)
+<script src="https://utteranc.es/client.js"
+        repo="DayuGuo/blogtalks-utterances"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
