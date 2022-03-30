@@ -12,4 +12,3 @@ permalinks:
   cn: "/:sections/:year/:month/:slug/"
   en: "/:sections/:year/:month/:slug/"
 
-
