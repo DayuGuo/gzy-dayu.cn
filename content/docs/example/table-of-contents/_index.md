@@ -1,5 +1,5 @@
 ---
-title: Hello, World!
+title: Stay Alive
 weight: 10
 ---
 
