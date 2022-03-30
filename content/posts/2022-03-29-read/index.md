@@ -26,10 +26,4 @@ tags:
 # 总结
 为了获得激发创意而非知识而读书，读自己能力边界的书。  
 
-<script src="https://utteranc.es/client.js"
-        repo="DayuGuo/blogtalks-utterances"
-        issue-term="title"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
+
