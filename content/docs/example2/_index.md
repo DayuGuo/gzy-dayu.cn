@@ -10,3 +10,7 @@ title: "Sharing"
 3. [那些舍不得删除的ios软件](/posts/ios/)
 4. [那些陪我走过孤独岁月的Podcast](/posts/podcast/)
 5. [那些我逛过或想去逛的摄影书店](/posts/bookstore/)
+
+# 组会-论文分享ppt
+`https://github.com/DayuGuo/CCDC`  
+1. He, W. T., Hou, X., Zhao, J., Sun, J., He, H., Si, W., ... & Su, S. (2022). Virome characterization of game animals in China reveals a spectrum of emerging pathogens. Cell.
