@@ -1,8 +1,8 @@
-# hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
-
 baseURL = 'https://example.com/'
 title = 'Another_Dayu'
 theme = 'hugo-book'
+languageCode = "zh"
+defaultContentLanguage = "zh" 
 
 # Book configuration
 disablePathToLower = true
@@ -30,6 +30,10 @@ enableGitInfo = true
   weight = 20
 
 [params]
+  description = "Another_Dayu"
+  author = "Dayu"
+  
+  moreMeta = true
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
   BookTheme = 'light'
@@ -78,9 +82,6 @@ enableGitInfo = true
   # (Optional, experimental, default false) Enables service worker that caches visited pages and resources for offline use.
   BookServiceWorker = true
 
-  # /!\ This is an experimental feature, might be removed or changed at any time
-  # (Optional, experimental, default false) Enables a drop-down menu for translations only if a translation is present.
-  BookTranslatedOnly = false
 
 [params.utteranc]
   enable = false
@@ -88,6 +89,11 @@ enableGitInfo = true
   issueTerm = "title"
   theme = "github-light"
   
+[blackfriday]
+  angledQuotes = true
+  fractions = false
+  plainIDAnchors = true
+  extensions = ["hardLineBreak"]
   
   
   
