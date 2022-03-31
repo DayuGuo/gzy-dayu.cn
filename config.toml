@@ -16,7 +16,6 @@ enableGitInfo = true
 [markup.tableOfContents]
   startLevel = 1
 
-
 [menu]
 # [[menu.before]]
 [[menu.after]]
@@ -30,10 +29,6 @@ enableGitInfo = true
   weight = 20
 
 [params]
-  description = "Another_Dayu"
-  author = "Dayu"
-  
-  moreMeta = true
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
   BookTheme = 'light'
@@ -56,11 +51,6 @@ enableGitInfo = true
   # For backward compatibility you can set '*' to render all sections to menu. Acts same as '/'
   BookSection = 'docs'
 
-  # Configure the date format used on the pages
-  # - In git information
-  # - In blog posts
-  BookDateFormat = 'January 2, 2006'
-
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
   # Configuration for indexing can be adjusted in i18n folder per language.
@@ -82,18 +72,16 @@ enableGitInfo = true
   # (Optional, experimental, default false) Enables service worker that caches visited pages and resources for offline use.
   BookServiceWorker = true
 
+  # /!\ This is an experimental feature, might be removed or changed at any time
+  # (Optional, experimental, default false) Enables a drop-down menu for translations only if a translation is present.
+  BookTranslatedOnly = false
+
 
 [params.utteranc]
   enable = false
   repo = "DayuGuo/blogtalks-utterances"
   issueTerm = "title"
   theme = "github-light"
-  
-[blackfriday]
-  angledQuotes = true
-  fractions = false
-  plainIDAnchors = true
-  extensions = ["hardLineBreak"]
   
   
   

@@ -1,7 +1,7 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "Sharing"
+title: "分享热爱"
 ---
 
 # 那些分享
