@@ -1,8 +1,10 @@
 ---
-title: 近期推荐
+title: Recent
 weight: 1
 ---
-
+# 最近的Blog
+1. [用R语言绘制属于你的《红黄蓝灰格子》](https://gzy-dayu.cn/posts/r-mondrianomies/)
+2. [用Shiny造一个自己的Wordle网站](https://gzy-dayu.cn/posts/shiny-wordle/)
 # 书
 1. 疾病的隐喻
 

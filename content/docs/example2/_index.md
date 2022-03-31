@@ -1,0 +1,12 @@
+---
+weight: 1
+bookFlatSection: true
+title: "Sharing"
+---
+
+# 那些分享
+1. [那些我曾经喜爱的Windows软件](/posts/windows-app/)
+2. [那些我离不开的MacOS软件](/posts/macos-app/)
+3. [那些舍不得删除的ios软件](/posts/ios/)
+4. [那些陪我走过孤独岁月的Podcast](/posts/podcast/)
+5. [那些我逛过或想去逛的摄影书店](/posts/bookstore/)
