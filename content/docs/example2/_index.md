@@ -10,6 +10,7 @@ title: "Sharing"
 3. [那些舍不得删除的ios软件](/posts/ios/)
 4. [那些陪我走过孤独岁月的Podcast](/posts/podcast/)
 5. [那些我逛过或想去逛的摄影书店](/posts/bookstore/)
+6. [那些值得一看的艺术相关网站](/posts/Artlist/)
 
 # 组会-论文分享ppt
 `https://github.com/DayuGuo/CCDC`  
