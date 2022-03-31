@@ -10,6 +10,9 @@ tags:
   - 艺术
   - 思考
 ---
-# 中画幅初体验
+# 黑白
+- 相机：海鸥双反
+- 胶卷：上海GP3
+- iso：100
 
-{{ partial "image-gallery" (dict "context" . "gallery_dir" "album") }}
+
