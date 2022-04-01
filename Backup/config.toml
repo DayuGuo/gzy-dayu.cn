@@ -1,14 +1,9 @@
 baseURL = 'https://example.com/'
 title = 'Another_Dayu'
 theme = 'hugo-book'
-languageCode = 'zh'
-defaultContentLanguage = 'zh'
+languageCode = "zh"
+defaultContentLanguage = "zh" 
 
-hasCJKLanguage = true
-enableEmoji = true
-footnotereturnlinkcontents = '↩'
-rssLimit = 100
- 
 # Book configuration
 disablePathToLower = true
 enableGitInfo = true
