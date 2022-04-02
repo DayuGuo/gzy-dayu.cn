@@ -1,10 +1,7 @@
 ---
-title: Introduction
+title: 主页
 type: docs
 ---
-
-# 主页
-
 
 ## 引
 
@@ -13,13 +10,14 @@ type: docs
 
 ## 个人简介
 
-- **Zhaoyu**，CCDC-NIPD，流行病学与卫生统计专业，研究生。
+- **GUO Zhao-Yu**，CCDC-NIPD，流行病学与卫生统计专业，研究生。
+- 本博客的主要内容：
   - #日常
   - #阅读
   - #科研
   - #摄影
-- 现运营[Infectious Diseases of Poverty（IDP）](https://idpjournal.biomedcentral.com/)杂志[Twitter账号](https://twitter.com/Idpbmc2012)和 EpiHub微信公众号
-- Pls Follow my [instagram](https://www.instagram.com/another_dayu/)!  
+- 现参与运营[Infectious Diseases of Poverty（IDP）](https://idpjournal.biomedcentral.com/)杂志的[Twitter账号](https://twitter.com/Idpbmc2012)和 EpiHub微信公众号
+- 更多摄影作品请关注我的Instagram： [another_dayu](https://www.instagram.com/another_dayu/)!  
 
 
  

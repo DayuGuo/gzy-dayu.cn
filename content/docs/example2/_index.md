@@ -32,14 +32,30 @@ Hugo是由Go语言实现的静态网站生成器。简单、易用、高效、�
 
 ## 选择你喜欢的主题
 入门的时候推荐默认的主题，或是[hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even), 其他主题见：[Hugo Themes](https://themes.gohugo.io/)。  
+在`https://github.com/`中，搜索关键词：`hugo theme`。或者使用搜索引擎，搜索：`hugo theme site:github.com`。都是不错的选择
+
 本Blog使用的是[Hugo-Book](https://github.com/alex-shpak/hugo-book)，是我比较喜欢的风格，且自带的插件比较多。
+
+不过，需要注意的是，更换主题的成本还是比较大的，迁移前要做好重头再来的准备。
+Yihui 是这样说的：
+> Another thing to keep in mind is that the more effort you make in a complicated theme, the more difficult it is to switch to other themes in the future, because you may have customized a lot of things that are not straightforward to port to another theme.
 
 ## 其他需要注意的
 对于非计算机专业的使用者，有一些底层逻辑只能在实践的过程中慢慢摸索。
 1. Blogdown的核心在于`config`文件，它的后缀可以使`.yaml`也可以是`.toml`，两种文件的语法不大一样，我推荐`config.toml`。载入themes之后，可以发现在`/themes`里会多一个主题文件夹，里面有默认的配置文件（`config.toml`）如有误操作，可以去那里找一份。一般默认的配置文件中会对设置有很详细的标注。
 2. 在`\layouts`中有partials和shortcodes两个文件夹，分别代表了Hugo系统的两大插件形式。需要个性化设置的可以关注一下。
 3. [Hugo-book](https://hugo-book-demo.netlify.app/)的示范网站里，有挺多Shortcodes模块的展示和教学，挺不错的。
-
+4. 各文件夹的基础功能：
+```
+├── config.toml     # 网站的配置信息
+├── archetypes      # 存放 .md 文件的模板
+├── content         # 存放 .md 文件
+├── data            # 存放 Hugo 数据
+├── layouts         # 存放布局文件,包括partials和shortcodes
+├── public          # 公共文件夹，用于存放生成的站点文件
+├── static          # 存放静态文件，比如图片、CSS、JS
+└── themes          # 存放主题
+```
 # 阿里云域名
 我大部分时间在国内，个人网址以后也可以有其他用途，就选了阿里云的域名。
 以前的学习网站找不到了，大家可以参考这个：[github-netlify-阿里云配置](https://www.kancloud.cn/april_l/ssh-/968589)和[Hugo+Github+阿里云域名搭建个人博客（附Netlify部署方法）](https://taoziyu97.github.io/post/2021-1-11-build_blog/)。

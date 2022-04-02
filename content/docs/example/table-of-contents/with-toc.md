@@ -5,6 +5,7 @@ weight: 1
 # 最近的Blog
 1. [用R语言绘制属于你的《红黄蓝灰格子》](https://gzy-dayu.cn/posts/r-mondrianomies/)
 2. [用Shiny造一个自己的Wordle网站](https://gzy-dayu.cn/posts/shiny-wordle/)
+3. [疾病、神秘化、隐喻和对立](/posts/illness-as-metaphor/)
 # 书
 1. 疾病的隐喻，苏珊·桑塔格
 2. 当代中国领导小组制度变迁与现代国家成长-关于我国血吸虫病治疗历史，赖静萍
@@ -20,10 +21,11 @@ weight: 1
 5. To Be By Your Side, Nick Cave
 
 # 影视
-1. I am Sam
-2. 宋飞正传
-3. 克莱默夫妇
-4. 秘密内幕 女警的反击
+1. I am Sam，电影
+2. 宋飞正传，电视剧
+3. 克莱默夫妇，电影
+4. 秘密内幕 女警的反击，动漫
+5. 新罗马浴场，动漫
 
 # 软件
 1.  [自制Shiny仿wordle在线游戏](https://dayuguo.shinyapps.io/mywordle/)

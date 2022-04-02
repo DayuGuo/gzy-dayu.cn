@@ -1,9 +1,12 @@
 baseURL = 'https://example.com/'
 title = 'Another_Dayu'
 theme = 'hugo-book'
+
+# 切换搜索栏检索语言，现在还不支持多语言，待研究
 languageCode = 'zh'
 defaultContentLanguage = 'zh'
 
+# 调整Blog菜单部分显示的字符数
 hasCJKLanguage = true
 enableEmoji = true
 footnotereturnlinkcontents = '↩'
